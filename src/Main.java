@@ -39,7 +39,7 @@ public class Main {
             } else {
                 System.out.println("Доставки нет");
             }
-            //Задача 5
+            //Задача 5   :)
             System.out.println("Задача 5");
             int monthNubber = 5;
             switch (monthNubber) {
